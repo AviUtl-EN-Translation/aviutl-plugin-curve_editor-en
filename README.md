@@ -11,6 +11,21 @@
 
 This is AviUtl's plugin and script that allows you to create and manage various easing.
 
+## Notice
+* This plugin is an English-localized version of the original plugin developed by [蛇色 (へびいろ)](https://github.com/hebiiro).
+* All core functionality and source code are based on the original project.
+
+Original Plugin
+* https://github.com/hebiiro/anti.aviutl.ultimate.plugin
+
+Localization
+* This version includes translations and adjustments for English-speaking users.
+* All rights and credits for the original work belong to the original author.
+
+* If you are the original author and wish this localized version to be modified or removed, please feel free to contact me.
+* Redistributor - JangJe
+* Twitter - https://twitter.com/JJ_otomad
+
 ## Download
 
 Please download the latest version of the ZIP file ('curve_editor-v*.zip') from the link below.
